@@ -1,7 +1,7 @@
 package main
 
 import (
-	"s3_pkg"
+	"com/angupt/aws/examples/s3_pkg"
 
 	"github.com/aws/aws-sdk-go/aws/session"
 	"github.com/aws/aws-sdk-go/service/s3"
